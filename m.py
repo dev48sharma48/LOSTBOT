@@ -358,7 +358,7 @@ def show_help(message):
 💥 /admincmd : Shows All Admin Commands.
 
 Buy From :- @DEVX76
-Official Channel :- https://t.me/+sUHNz0xm_205MTBl
+Official Channel :- https://t.me/LOST9310
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
@@ -385,7 +385,7 @@ def welcome_rules(message):
 
 1. Dont Run Too Many Attacks !! Cause A Ban From Bot
 2. Dont Run 2 Attacks At Same Time Becz If U Then U Got Banned From Bot.
-3. MAKE SURE YOU JOINED https://t.me/+sUHNz0xm_205MTBl OTHERWISE NOT WORK
+3. MAKE SURE YOU JOINED https://t.me/LOST9310 OTHERWISE NOT WORK
 4. We Daily Checks The Logs So Follow these rules to avoid Ban!!'''
     bot.reply_to(message, response)
 
